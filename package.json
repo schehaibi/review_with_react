@@ -1,4 +1,5 @@
 {
+  "homepage": "http://schehaibi.github.io/review_with_react",
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "set CI=false && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
