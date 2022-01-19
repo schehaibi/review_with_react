@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-
+you can see the result of code here:https://schehaibi.github.io/review_with_react/ \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-you can see the result of code here:https://schehaibi.github.io/birthday_list/
+
 ## Available Scripts
 
 In the project directory, you can run:
